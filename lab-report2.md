@@ -15,10 +15,15 @@ if there add more values, the num(int) that check the number will increase by on
 ![Image](15l_1code.png)
 
 Part 2
+The path to the private key for my SSH key for logging into ieng6: 
 
 ![Image](15l21.png)
 
+The path to the public key for my SSH key for logging into ieng6:
+
 ![Image](15l22.png)
+
+A terminal interaction where I log into ieng6 with my course-specific account without being asked for a password.
 
 ![Image](15l23.png)
 
