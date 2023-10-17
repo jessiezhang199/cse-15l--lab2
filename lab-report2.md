@@ -1,14 +1,26 @@
 Part 1
+
 After I code, I use the link with query /add-message?s=How are you to test my code. At first it did not shows right which have a + between each word instead of space, so the only way I do is to move all the marks of the text we need to make it looks right. Since there will become a % connect between each word in the link we enter, it is kind of hard to remove it. 
 
+![Image](15l_1_1.png)
+
 Another methods I use is add one more text and than use /add-message, without adding anything, it also works. this command did not add anything, but shows all the things we already add.  
+
+![Image](15l_1_2.png)
 
 I use to split out the query part with "=", so I can get the string that need to put. I also add a number as a count number to count for the number we have as the index of the name. 
 
 if there add more values, the num(int) that check the number will increase by one as the index of that new words. Also I change all marks to spaces to debug the error of having + to connect each word instead of space. 
 
+![Image](15l_1code.png)
+
 Part 2
 
+![Image](15l21.png)
+
+![Image](15l22.png)
+
+![Image](15l23.png)
 
 Part 3
 
