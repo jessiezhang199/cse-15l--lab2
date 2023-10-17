@@ -1,0 +1,15 @@
+Part 1
+After I code, I use the link with query /add-message?s=How are you to test my code. At first it did not shows right which have a + between each word instead of space, so the only way I do is to move all the marks of the text we need to make it looks right. Since there will become a % connect between each word in the link we enter, it is kind of hard to remove it. 
+
+Another methods I use is add one more text and than use /add-message, without adding anything, it also works. this command did not add anything, but shows all the things we already add.  
+
+I use to split out the query part with "=", so I can get the string that need to put. I also add a number as a count number to count for the number we have as the index of the name. 
+
+if there add more values, the num(int) that check the number will increase by one as the index of that new words. Also I change all marks to spaces to debug the error of having + to connect each word instead of space. 
+
+Part 2
+
+
+Part 3
+
+I learn a lot during week 2 and week 3. The most of the things are new to me. That is my first time to learn ssh and connect to course specific account. Also open java and javac in terminal in order to compile and run the java file in the servers. That is also my first time to get touch with servers. It is a little hard for me when I take the skill demo 1, but I will get more practise next time to make everything easier. Thank you for the helps of all Tutors and TAs!
