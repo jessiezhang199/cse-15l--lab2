@@ -1,10 +1,11 @@
 Part 1
 
-After I code, I use the link with query /add-message?s=How are you to test my code. At first it did not shows right which have a + between each word instead of space, so the only way I do is to move all the marks of the text we need to make it looks right. Since there will become a % connect between each word in the link we enter, it is kind of hard to remove it. 
+After I code, I use the link with query '/add-message?s=How are you' to test my code. At first it did not shows right which have a + between each word instead of space, so the only way I do is to move all the marks of the text we need to make it looks right. Since there will become a % connect between each word in the link we enter, it is kind of hard to remove it. But after I fix it, the message we enter in query appear in the page correctly. 
+
 
 ![Image](15l_1_1.png)
 
-Another methods I use is add one more text and than use /add-message, without adding anything, it also works. this command did not add anything, but shows all the things we already add.  
+Another methods I use is add one more text,'/add-message?s=Hello World' and than use'/add-message' as the path, without adding any query, it also works and shows all the messages I enter. when we change to another message, the original mesaye will stay and the new message is add below the old one. However, if there is no query after /add-message, it did not add anything to the original text, but shows all the things we already add. After we add the new messages, the frout number 1 will add to 2 and it will appear in front of the second message. 
 
 ![Image](15l_1_2.png)
 
