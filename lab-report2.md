@@ -18,11 +18,12 @@ if there add more values, the num(int) that check the number will increase by on
 Part 2
 The path to the private key for my SSH key for logging into ieng6: 
 
-![Image](15l21.png)
+![Image](lslocal.png)
 
 The path to the public key for my SSH key for logging into ieng6:
 
-![Image](15l22.png)
+![Image](lspriv.png)
+![Image](lslink.png)
 
 A terminal interaction where I log into ieng6 with my course-specific account without being asked for a password.
 
